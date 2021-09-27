@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hlinh.jobs@gmail.com
 
 ### Connect with me:
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [https://www.linkedin.com/in/hoang-linh-nguyen-760330186/]
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
