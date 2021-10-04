@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on random projects
 - 🌱 I’m currently learning at RMIT University
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2021 Goals: Contribute more to anything :D
+- 🥅 2021 Goals: Contribute more to anything & Finish my bachelor degree :D
 - 📫 How to reach me: hlinh.jobs@gmail.com
 
 ### Connect with me:
