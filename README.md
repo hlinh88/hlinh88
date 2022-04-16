@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on random projects
-- 🌱 I’m currently learning at RMIT University
+- 🌱 I’m currently enrolled in Information Technology bachelor at RMIT University
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2022 Goals: Complete my Bachelor degree and land in a good company man :D
 - 📫 How to reach me: hlinh.jobs@gmail.com
