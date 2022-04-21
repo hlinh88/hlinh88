@@ -1,4 +1,4 @@
-### Hi there, I'm Luke (Hoang Linh) 👋
+### Hi there, I'm Luke (Hoang Linh) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <!--
 **hlinh88/hlinh88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
