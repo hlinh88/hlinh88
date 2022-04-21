@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Complete my Bachelor degree and land in a good company man :D
 - 📫 How to reach me: hlinh.jobs@gmail.com
 
-## 🔥 Streak Stats
+### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hlinh88&theme=radical" alt="hlinh88"  /></p>
 
 
