@@ -1,10 +1,10 @@
 ## Hi there, I'm Luke (Hoang Linh) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 
-- 🔭 I’m currently working on Swift projects
-- 🌱 I’m currently enrolled in Bachelor of Information Technology at RMIT University
+- 🔭 I’m currently working on Swift, Flutter, and React Native projects
+- 🌱 I’ve graduated from RMIT University - Bachelor of Information Technology 
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2022 Goals: Complete my Bachelor degree and land in a good company ヅ
+- 🥅 2023 Goals: Complete my Bachelor degree and land in a good company ヅ
 - 📫 How to reach me: hlinh.jobs@gmail.com
 
 ## 🔥 Streak Stats
