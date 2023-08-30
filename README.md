@@ -1,4 +1,4 @@
-## Hi there, I'm Luke (Hoang Linh) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+## Hi there, I'm Hoang Linh (Luke) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 
 - 🔭 I’m currently working on Swift, Flutter, and React Native projects
